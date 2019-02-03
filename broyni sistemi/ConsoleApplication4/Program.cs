@@ -10,8 +10,8 @@ namespace ConsoleApplication4
         static void Main(string[] args)
         {
 
-    string h = Console.ReadLine();
-    Console.WriteLine(Convert.ToString(Convert.ToInt32(h, 16), 2));
+    string s = Console.ReadLine();
+    Console.WriteLine(Convert.ToString(Convert.ToInt32(s, 16), 2));
         }
     }
 }
