@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-10", "ConsoleApplication2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-10", "ConsoleApplication3\16-10.csproj", "{8015F2F2-4F45-4FE1-9173-B9A6F1E3429E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-2", "ConsoleApplication4\16-2.csproj", "{18426E20-82A8-4DAA-AB47-82FB5F46EC07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-16", "ConsoleApplication5\2-16.csproj", "{CBDF683B-C40A-471B-9984-42E697321B66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +35,14 @@ Global
 		{8015F2F2-4F45-4FE1-9173-B9A6F1E3429E}.Debug|x86.Build.0 = Debug|x86
 		{8015F2F2-4F45-4FE1-9173-B9A6F1E3429E}.Release|x86.ActiveCfg = Release|x86
 		{8015F2F2-4F45-4FE1-9173-B9A6F1E3429E}.Release|x86.Build.0 = Release|x86
+		{18426E20-82A8-4DAA-AB47-82FB5F46EC07}.Debug|x86.ActiveCfg = Debug|x86
+		{18426E20-82A8-4DAA-AB47-82FB5F46EC07}.Debug|x86.Build.0 = Debug|x86
+		{18426E20-82A8-4DAA-AB47-82FB5F46EC07}.Release|x86.ActiveCfg = Release|x86
+		{18426E20-82A8-4DAA-AB47-82FB5F46EC07}.Release|x86.Build.0 = Release|x86
+		{CBDF683B-C40A-471B-9984-42E697321B66}.Debug|x86.ActiveCfg = Debug|x86
+		{CBDF683B-C40A-471B-9984-42E697321B66}.Debug|x86.Build.0 = Debug|x86
+		{CBDF683B-C40A-471B-9984-42E697321B66}.Release|x86.ActiveCfg = Release|x86
+		{CBDF683B-C40A-471B-9984-42E697321B66}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
