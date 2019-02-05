@@ -19,8 +19,6 @@ namespace ConsoleApplication9
             var oldElement = arr[i];
              arr[i] = arr[j];
              arr[j] = oldElement;
-            }
-
         }
     }
-
+}

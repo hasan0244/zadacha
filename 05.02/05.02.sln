@@ -17,7 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication6", "Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metod na mehurcheto", "ConsoleApplication7\metod na mehurcheto.csproj", "{5F319956-06C6-48B4-AE8E-8CEFA54445AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication9", "ConsoleApplication9\ConsoleApplication9.csproj", "{841D2ECA-5DC7-4B74-8735-9A389557989D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obrishtane na masiv ot simvolni nizove", "ConsoleApplication9\obrishtane na masiv ot simvolni nizove.csproj", "{841D2ECA-5DC7-4B74-8735-9A389557989D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication10", "ConsoleApplication10\ConsoleApplication10.csproj", "{A518A148-431E-4373-A952-160B089E9AD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,10 @@ Global
 		{841D2ECA-5DC7-4B74-8735-9A389557989D}.Debug|x86.Build.0 = Debug|x86
 		{841D2ECA-5DC7-4B74-8735-9A389557989D}.Release|x86.ActiveCfg = Release|x86
 		{841D2ECA-5DC7-4B74-8735-9A389557989D}.Release|x86.Build.0 = Release|x86
+		{A518A148-431E-4373-A952-160B089E9AD1}.Debug|x86.ActiveCfg = Debug|x86
+		{A518A148-431E-4373-A952-160B089E9AD1}.Debug|x86.Build.0 = Debug|x86
+		{A518A148-431E-4373-A952-160B089E9AD1}.Release|x86.ActiveCfg = Release|x86
+		{A518A148-431E-4373-A952-160B089E9AD1}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
